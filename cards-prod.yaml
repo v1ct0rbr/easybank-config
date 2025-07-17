@@ -9,7 +9,7 @@ build:
 cards:
   message: "Welcome to Cards service related production APIs"
   contactDetails:
-    name: "Queiroga victor"
+    name: "Victor Queiroga"
     email: "contato@victorqueiroga.com"
   onCallSupport:
     -(555) 555-5555,

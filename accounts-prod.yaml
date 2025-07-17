@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to Accounts service related to production APIs"
   contactDetails:
-    name: "Queiroga victor"
+    name: "Victor Queiroga"
     email: "{cipher}6ffee9fe6f8f1e295c6d2173711d08511607f94be3c8a7b8e065d740ad894fd44fd7909d66b021876ca789391c5b36cf"
   onCallSupport:
     -(555) 555-5557,

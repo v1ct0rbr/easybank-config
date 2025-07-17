@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Accounts service related local APIs"
   contactDetails:
     name: "Victor Queiroga"
-    email: "contato@victorqueiroga.com"
+    email: "{cipher}f10b32da74bfcf2d17bfb1fcf601ae57eef1b7c789eb52ccd48d940053d2837d6138c50af4cf6f01ca4b360129f013c7"
   onCallSupport:
     -(555) 555-5555,
     -(555) 555-5556

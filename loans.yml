@@ -4,7 +4,7 @@ build:
 loans:
   message: "Welcome to Loans service local APIs"
   contactDetails:
-    name: "Victor Queiroga"
+    name: "Victor Henrique"
     email: "contato@victorqueiroga.com"
   onCallSupport:
     -(555) 555-5555,
